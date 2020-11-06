@@ -2,5 +2,7 @@
   "format": "rss",
   "citation": "Southwest Environmental Information Network (SEINet)",
   "url": "https://swbiodiversity.org/seinet/webservices/dwc/rss.xml",
+  "_comment": "disable indexing for now to allow for some optimization first",
+  "deprecated": true,
   "shouldResolveReferences": false
 }
